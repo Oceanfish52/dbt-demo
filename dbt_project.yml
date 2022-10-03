@@ -2,7 +2,7 @@ name: 'dbt_demo'
 version: '1.0.0'
 config-version: 2
 
-profile: 'dbt_demo'
+profile: 'default'
 
 model-paths: ["models"]
 analysis-paths: ["analyses"]
@@ -11,12 +11,13 @@ seed-paths: ["seeds"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
 
-target-path: "target"
-clean-targets:
+target-path: "target" 
+clean-targets:         
   - "target"
   - "dbt_packages"
 
+
 models:
-  dbt_demo_ldi:
+  my_new_project:
     example:
-      +materialized: view
+      materialized: view
