@@ -1,24 +1,9 @@
-{{ config (
-    materialized="table"
-)}}
-
-with customers as (
-
-    select * from {{ ref('stg_customers')}}
-
+with orders as  (
+    select * from {{ ref('stg_orders' )}}
 ),
 
-orders as (
-
-    select * from {{ ref('stg_orders') }}
-
-),
-
-
-payment as (
-
-    select * from {{ ref('stg_payment') }}
-
+payments as (
+    select * from {{ ref('stg_payments') }}
 ),
 
 order_payments as (
@@ -26,7 +11,7 @@ order_payments as (
         order_id,
         sum(case when status = 'success' then amount end) as amount
 
-    from payment
+    from payments
     group by 1
 ),
 
