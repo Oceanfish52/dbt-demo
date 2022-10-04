@@ -1,0 +1,21 @@
+
+version: 2
+
+models:
+    - name: dim_customers
+      description: ""
+      columns:
+          - name: customer_id
+            description: "The primary key for this table"
+            tests:
+                - unique
+                - not_null
+
+    - name: fct_orders
+      description: ""
+      columns:
+          - name: order_id
+            description: "The primary key for this table"
+            tests:
+                - unique
+                - not_null

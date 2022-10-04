@@ -1,4 +1,4 @@
-name: 'dbt_demo'
+name: 'jaffle_shop'
 version: '1.0.0'
 config-version: 2
 
@@ -18,6 +18,10 @@ clean-targets:
 
 
 models:
-  my_new_project:
-    example:
+  jaffle_shop:
+    marts:
+      core:
+        materialized: table
+    staging:
       materialized: view
+
