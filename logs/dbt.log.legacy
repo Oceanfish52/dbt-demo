@@ -21897,3 +21897,938 @@ where parent.to_field is null
 2022-10-04 10:15:58.192107 (Thread-417): handling status request
 2022-10-04 10:15:58.193094 (Thread-417): 10:15:58  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c0ae670>]}
 2022-10-04 10:15:58.193566 (Thread-417): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:16:01.393263 (Thread-418): 10:16:01  Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+2022-10-04 10:16:01.393500 (Thread-418): 10:16:01  Partial parsing enabled, no changes found, skipping parsing
+2022-10-04 10:16:01.401010 (Thread-418): 10:16:01  Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f228dec0490>]}
+2022-10-04 10:16:02.400852 (Thread-419): handling status request
+2022-10-04 10:16:02.401262 (Thread-419): 10:16:02  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2267e19970>]}
+2022-10-04 10:16:02.401741 (Thread-419): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:16:02.433349 (Thread-420): handling status request
+2022-10-04 10:16:02.433747 (Thread-420): 10:16:02  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2267e19e50>]}
+2022-10-04 10:16:02.434219 (Thread-420): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:32:53.470268 (Thread-421): handling status request
+2022-10-04 10:32:53.470678 (Thread-421): 10:32:53  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2267e195e0>]}
+2022-10-04 10:32:53.471191 (Thread-421): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:32:53.479594 (Thread-422): handling ps request
+2022-10-04 10:32:53.479908 (Thread-422): 10:32:53  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2267d72ca0>]}
+2022-10-04 10:32:53.481447 (Thread-422): sending response (<Response 16780 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:32:53.623121 (Thread-423): handling status request
+2022-10-04 10:32:53.623544 (Thread-423): 10:32:53  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2267c6c250>]}
+2022-10-04 10:32:53.624031 (Thread-423): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:32:53.629688 (Thread-424): handling status request
+2022-10-04 10:32:53.629945 (Thread-424): 10:32:53  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2267c6cc40>]}
+2022-10-04 10:32:53.630307 (Thread-424): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:32:56.580221 (Thread-425): handling poll request
+2022-10-04 10:32:56.580632 (Thread-425): 10:32:56  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2267c6c340>]}
+2022-10-04 10:32:56.586572 (Thread-425): sending response (<Response 189471 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:32:56.749069 (Thread-426): handling status request
+2022-10-04 10:32:56.749454 (Thread-426): 10:32:56  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226d8f1400>]}
+2022-10-04 10:32:56.749923 (Thread-426): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:33:48.454471 (Thread-427): handling status request
+2022-10-04 10:33:48.454848 (Thread-427): 10:33:48  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f228c0b1880>]}
+2022-10-04 10:33:48.455351 (Thread-427): sending response (<Response 1249 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:33:48.460170 (Thread-428): handling list request
+2022-10-04 10:33:48.460459 (Thread-428): 10:33:48  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2267e19ee0>]}
+2022-10-04 10:33:48.488109 (Thread-428): 10:33:48  Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2267e191c0>]}
+2022-10-04 10:33:48.488734 (Thread-428): 10:33:48  Found 7 models, 19 tests, 0 snapshots, 0 analyses, 289 macros, 0 operations, 0 seed files, 3 sources, 0 exposures, 0 metrics
+2022-10-04 10:33:48.489052 (Thread-428): 10:33:48  Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f228d3f6fa0>]}
+2022-10-04 10:33:48.493688 (Thread-428): sending response (<Response 16326 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:33:49.696638 (Thread-429): handling status request
+2022-10-04 10:33:49.697059 (Thread-429): 10:33:49  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2267e19070>]}
+2022-10-04 10:33:49.697546 (Thread-429): sending response (<Response 1249 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:33:49.702694 (Thread-430): handling list request
+2022-10-04 10:33:49.702993 (Thread-430): 10:33:49  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f22668fdb80>]}
+2022-10-04 10:33:49.730017 (Thread-430): 10:33:49  Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2267e7dca0>]}
+2022-10-04 10:33:49.730694 (Thread-430): 10:33:49  Found 7 models, 19 tests, 0 snapshots, 0 analyses, 289 macros, 0 operations, 0 seed files, 3 sources, 0 exposures, 0 metrics
+2022-10-04 10:33:49.731047 (Thread-430): 10:33:49  Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226d95adc0>]}
+2022-10-04 10:33:49.735202 (Thread-430): sending response (<Response 12610 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:33:52.501094 (Thread-431): handling status request
+2022-10-04 10:33:52.501502 (Thread-431): 10:33:52  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2266921f10>]}
+2022-10-04 10:33:52.501984 (Thread-431): sending response (<Response 1249 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:33:52.506586 (Thread-432): handling list request
+2022-10-04 10:33:52.506899 (Thread-432): 10:33:52  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226690e490>]}
+2022-10-04 10:33:52.535903 (Thread-432): 10:33:52  Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226690e910>]}
+2022-10-04 10:33:52.536595 (Thread-432): 10:33:52  Found 7 models, 19 tests, 0 snapshots, 0 analyses, 289 macros, 0 operations, 0 seed files, 3 sources, 0 exposures, 0 metrics
+2022-10-04 10:33:52.536989 (Thread-432): 10:33:52  Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f22668fd6d0>]}
+2022-10-04 10:33:52.538689 (Thread-432): 10:33:52  The selection criterion '+models/staging/jaffle_shop/jaffle_shop.md+' does not match any nodes
+2022-10-04 10:33:52.538843 (Thread-432): 10:33:52  No nodes selected!
+2022-10-04 10:33:52.540517 (Thread-432): sending response (<Response 2559 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:33:55.005594 (Thread-433): handling status request
+2022-10-04 10:33:55.005989 (Thread-433): 10:33:55  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f22668ad8e0>]}
+2022-10-04 10:33:55.006460 (Thread-433): sending response (<Response 1249 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:33:55.011063 (Thread-434): handling list request
+2022-10-04 10:33:55.011375 (Thread-434): 10:33:55  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f22668adc70>]}
+2022-10-04 10:33:55.035765 (Thread-434): 10:33:55  Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f22668fd4c0>]}
+2022-10-04 10:33:55.036444 (Thread-434): 10:33:55  Found 7 models, 19 tests, 0 snapshots, 0 analyses, 289 macros, 0 operations, 0 seed files, 3 sources, 0 exposures, 0 metrics
+2022-10-04 10:33:55.036751 (Thread-434): 10:33:55  Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2266927850>]}
+2022-10-04 10:33:55.040352 (Thread-434): sending response (<Response 8337 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:03.679684 (Thread-435): 10:34:03  Partial parsing enabled: 0 files deleted, 0 files added, 1 files changed.
+2022-10-04 10:34:03.681291 (Thread-435): 10:34:03  Partial parsing: deleted source source.jaffle_shop.jaffle_shop.customers
+2022-10-04 10:34:03.681600 (Thread-435): 10:34:03  Partial parsing: deleted source source.jaffle_shop.jaffle_shop.orders
+2022-10-04 10:34:03.681733 (Thread-435): 10:34:03  Partial parsing: update schema file: jaffle_shop://models/staging/jaffle_shop/src_jaffle_shop.yml
+2022-10-04 10:34:03.687089 (Thread-435): 10:34:03  1699: static parser successfully parsed marts/core/dim_customers.sql
+2022-10-04 10:34:03.689750 (Thread-435): 10:34:03  1699: static parser successfully parsed staging/jaffle_shop/stg_customers.sql
+2022-10-04 10:34:03.692050 (Thread-435): 10:34:03  1699: static parser successfully parsed marts/core/fct_orders.sql
+2022-10-04 10:34:03.694227 (Thread-435): 10:34:03  1699: static parser successfully parsed staging/jaffle_shop/stg_orders.sql
+2022-10-04 10:34:03.802726 (Thread-435): 10:34:03  Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c1b6550>]}
+2022-10-04 10:34:04.607051 (Thread-436): handling status request
+2022-10-04 10:34:04.607506 (Thread-436): 10:34:04  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c700760>]}
+2022-10-04 10:34:04.608059 (Thread-436): sending response (<Response 3241 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:04.648503 (Thread-437): handling status request
+2022-10-04 10:34:04.648888 (Thread-437): 10:34:04  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c700b80>]}
+2022-10-04 10:34:04.649413 (Thread-437): sending response (<Response 3241 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:13.747303 (Thread-438): handling status request
+2022-10-04 10:34:13.747708 (Thread-438): 10:34:13  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c700610>]}
+2022-10-04 10:34:13.771660 (Thread-438): sending response (<Response 3218 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:13.776992 (Thread-439): handling list request
+2022-10-04 10:34:13.777363 (Thread-439): 10:34:13  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c700b50>]}
+2022-10-04 10:34:13.808984 (Thread-439): 10:34:13  Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c1a4ac0>]}
+2022-10-04 10:34:13.809622 (Thread-439): 10:34:13  Found 7 models, 19 tests, 0 snapshots, 0 analyses, 289 macros, 0 operations, 0 seed files, 3 sources, 0 exposures, 0 metrics
+2022-10-04 10:34:13.809942 (Thread-439): 10:34:13  Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f22668adfd0>]}
+2022-10-04 10:34:13.813932 (Thread-439): sending response (<Response 11090 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:16.571098 (Thread-440): handling status request
+2022-10-04 10:34:16.571532 (Thread-440): 10:34:16  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226698ea00>]}
+2022-10-04 10:34:16.572075 (Thread-440): sending response (<Response 3218 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:16.576464 (Thread-441): handling list request
+2022-10-04 10:34:16.576714 (Thread-441): 10:34:16  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226698ec70>]}
+2022-10-04 10:34:16.605682 (Thread-441): 10:34:16  Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f22668e6700>]}
+2022-10-04 10:34:16.606183 (Thread-441): 10:34:16  Found 7 models, 19 tests, 0 snapshots, 0 analyses, 289 macros, 0 operations, 0 seed files, 3 sources, 0 exposures, 0 metrics
+2022-10-04 10:34:16.606468 (Thread-441): 10:34:16  Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226698eeb0>]}
+2022-10-04 10:34:16.609819 (Thread-441): sending response (<Response 7154 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:20.168148 (Thread-442): 10:34:20  Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+2022-10-04 10:34:20.168400 (Thread-442): 10:34:20  Partial parsing enabled, no changes found, skipping parsing
+2022-10-04 10:34:20.174601 (Thread-442): 10:34:20  Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226691fca0>]}
+2022-10-04 10:34:21.062153 (Thread-443): handling status request
+2022-10-04 10:34:21.062552 (Thread-443): 10:34:21  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f228c1311f0>]}
+2022-10-04 10:34:21.063027 (Thread-443): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:22.129689 (Thread-444): handling status request
+2022-10-04 10:34:22.130081 (Thread-444): 10:34:22  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c62a400>]}
+2022-10-04 10:34:22.130543 (Thread-444): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:23.045566 (Thread-445): 10:34:23  Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+2022-10-04 10:34:23.045783 (Thread-445): 10:34:23  Partial parsing enabled, no changes found, skipping parsing
+2022-10-04 10:34:23.051661 (Thread-445): 10:34:23  Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f2266668760>]}
+2022-10-04 10:34:23.981575 (Thread-446): handling status request
+2022-10-04 10:34:23.982003 (Thread-446): 10:34:23  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c531d00>]}
+2022-10-04 10:34:23.982495 (Thread-446): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:24.133881 (Thread-447): handling status request
+2022-10-04 10:34:24.134275 (Thread-447): 10:34:24  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c531490>]}
+2022-10-04 10:34:24.134735 (Thread-447): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:29.131865 (Thread-448): handling status request
+2022-10-04 10:34:29.132295 (Thread-448): 10:34:29  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c531d30>]}
+2022-10-04 10:34:29.132802 (Thread-448): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:29.139823 (Thread-449): handling status request
+2022-10-04 10:34:29.140125 (Thread-449): 10:34:29  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f228d69b880>]}
+2022-10-04 10:34:29.140541 (Thread-449): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:29.581426 (Thread-450): handling cli_args request
+2022-10-04 10:34:29.581853 (Thread-450): 10:34:29  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f228d69b820>]}
+2022-10-04 10:34:31.921306 (Thread-450): sending response (<Response 139 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:31.974791 (MainThread): 10:34:31  Unable to do partial parsing because config vars, config profile, or config target have changed
+2022-10-04 10:34:31.975249 (MainThread): 10:34:31  Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': '27c74c51-67f2-472c-b21e-4d5e1bf4da8f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7eff6757dfa0>]}
+2022-10-04 10:34:32.041591 (MainThread): 10:34:32  Parsing macros/relations.sql
+2022-10-04 10:34:32.042376 (MainThread): 10:34:32  Parsing macros/adapters.sql
+2022-10-04 10:34:32.070423 (MainThread): 10:34:32  Parsing macros/catalog.sql
+2022-10-04 10:34:32.082552 (MainThread): 10:34:32  Parsing macros/adapters/apply_grants.sql
+2022-10-04 10:34:32.083214 (MainThread): 10:34:32  Parsing macros/utils/split_part.sql
+2022-10-04 10:34:32.084283 (MainThread): 10:34:32  Parsing macros/utils/cast_bool_to_text.sql
+2022-10-04 10:34:32.084809 (MainThread): 10:34:32  Parsing macros/utils/datediff.sql
+2022-10-04 10:34:32.085411 (MainThread): 10:34:32  Parsing macros/utils/dateadd.sql
+2022-10-04 10:34:32.086004 (MainThread): 10:34:32  Parsing macros/utils/last_day.sql
+2022-10-04 10:34:32.086829 (MainThread): 10:34:32  Parsing macros/utils/length.sql
+2022-10-04 10:34:32.087299 (MainThread): 10:34:32  Parsing macros/utils/listagg.sql
+2022-10-04 10:34:32.090669 (MainThread): 10:34:32  Parsing macros/materializations/snapshot_merge.sql
+2022-10-04 10:34:32.091287 (MainThread): 10:34:32  Parsing macros/relations.sql
+2022-10-04 10:34:32.092540 (MainThread): 10:34:32  Parsing macros/adapters.sql
+2022-10-04 10:34:32.117921 (MainThread): 10:34:32  Parsing macros/catalog.sql
+2022-10-04 10:34:32.120200 (MainThread): 10:34:32  Parsing macros/utils/split_part.sql
+2022-10-04 10:34:32.121236 (MainThread): 10:34:32  Parsing macros/utils/any_value.sql
+2022-10-04 10:34:32.121738 (MainThread): 10:34:32  Parsing macros/utils/datediff.sql
+2022-10-04 10:34:32.128410 (MainThread): 10:34:32  Parsing macros/utils/dateadd.sql
+2022-10-04 10:34:32.129069 (MainThread): 10:34:32  Parsing macros/utils/last_day.sql
+2022-10-04 10:34:32.130444 (MainThread): 10:34:32  Parsing macros/utils/listagg.sql
+2022-10-04 10:34:32.131932 (MainThread): 10:34:32  Parsing macros/materializations/snapshot_merge.sql
+2022-10-04 10:34:32.133658 (MainThread): 10:34:32  Parsing macros/adapters/metadata.sql
+2022-10-04 10:34:32.141331 (MainThread): 10:34:32  Parsing macros/adapters/columns.sql
+2022-10-04 10:34:32.151628 (MainThread): 10:34:32  Parsing macros/adapters/freshness.sql
+2022-10-04 10:34:32.154536 (MainThread): 10:34:32  Parsing macros/adapters/persist_docs.sql
+2022-10-04 10:34:32.158866 (MainThread): 10:34:32  Parsing macros/adapters/apply_grants.sql
+2022-10-04 10:34:32.172542 (MainThread): 10:34:32  Parsing macros/adapters/relation.sql
+2022-10-04 10:34:32.186860 (MainThread): 10:34:32  Parsing macros/adapters/schema.sql
+2022-10-04 10:34:32.189138 (MainThread): 10:34:32  Parsing macros/adapters/indexes.sql
+2022-10-04 10:34:32.192001 (MainThread): 10:34:32  Parsing macros/get_custom_name/get_custom_schema.sql
+2022-10-04 10:34:32.194358 (MainThread): 10:34:32  Parsing macros/get_custom_name/get_custom_alias.sql
+2022-10-04 10:34:32.195788 (MainThread): 10:34:32  Parsing macros/get_custom_name/get_custom_database.sql
+2022-10-04 10:34:32.197423 (MainThread): 10:34:32  Parsing macros/utils/literal.sql
+2022-10-04 10:34:32.198310 (MainThread): 10:34:32  Parsing macros/utils/data_types.sql
+2022-10-04 10:34:32.204232 (MainThread): 10:34:32  Parsing macros/utils/replace.sql
+2022-10-04 10:34:32.205479 (MainThread): 10:34:32  Parsing macros/utils/right.sql
+2022-10-04 10:34:32.206555 (MainThread): 10:34:32  Parsing macros/utils/split_part.sql
+2022-10-04 10:34:32.208681 (MainThread): 10:34:32  Parsing macros/utils/safe_cast.sql
+2022-10-04 10:34:32.209730 (MainThread): 10:34:32  Parsing macros/utils/cast_bool_to_text.sql
+2022-10-04 10:34:32.210768 (MainThread): 10:34:32  Parsing macros/utils/any_value.sql
+2022-10-04 10:34:32.211737 (MainThread): 10:34:32  Parsing macros/utils/bool_or.sql
+2022-10-04 10:34:32.213259 (MainThread): 10:34:32  Parsing macros/utils/date_trunc.sql
+2022-10-04 10:34:32.214257 (MainThread): 10:34:32  Parsing macros/utils/hash.sql
+2022-10-04 10:34:32.215308 (MainThread): 10:34:32  Parsing macros/utils/datediff.sql
+2022-10-04 10:34:32.216610 (MainThread): 10:34:32  Parsing macros/utils/dateadd.sql
+2022-10-04 10:34:32.218019 (MainThread): 10:34:32  Parsing macros/utils/last_day.sql
+2022-10-04 10:34:32.219842 (MainThread): 10:34:32  Parsing macros/utils/except.sql
+2022-10-04 10:34:32.220741 (MainThread): 10:34:32  Parsing macros/utils/position.sql
+2022-10-04 10:34:32.221839 (MainThread): 10:34:32  Parsing macros/utils/length.sql
+2022-10-04 10:34:32.222973 (MainThread): 10:34:32  Parsing macros/utils/concat.sql
+2022-10-04 10:34:32.224016 (MainThread): 10:34:32  Parsing macros/utils/escape_single_quotes.sql
+2022-10-04 10:34:32.225238 (MainThread): 10:34:32  Parsing macros/utils/listagg.sql
+2022-10-04 10:34:32.227481 (MainThread): 10:34:32  Parsing macros/utils/intersect.sql
+2022-10-04 10:34:32.228551 (MainThread): 10:34:32  Parsing macros/etc/datetime.sql
+2022-10-04 10:34:32.236685 (MainThread): 10:34:32  Parsing macros/etc/statement.sql
+2022-10-04 10:34:32.241116 (MainThread): 10:34:32  Parsing macros/generic_test_sql/unique.sql
+2022-10-04 10:34:32.365440 (Thread-451): handling poll request
+2022-10-04 10:34:32.365859 (Thread-451): 10:34:32  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f228c297e80>]}
+2022-10-04 10:34:32.367412 (Thread-451): sending response (<Response 17513 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:32.241801 (MainThread): 10:34:32  Parsing macros/generic_test_sql/not_null.sql
+2022-10-04 10:34:32.242559 (MainThread): 10:34:32  Parsing macros/generic_test_sql/accepted_values.sql
+2022-10-04 10:34:32.244066 (MainThread): 10:34:32  Parsing macros/generic_test_sql/relationships.sql
+2022-10-04 10:34:32.244941 (MainThread): 10:34:32  Parsing macros/materializations/configs.sql
+2022-10-04 10:34:32.247228 (MainThread): 10:34:32  Parsing macros/materializations/hooks.sql
+2022-10-04 10:34:32.251308 (MainThread): 10:34:32  Parsing macros/materializations/models/table/table.sql
+2022-10-04 10:34:32.256655 (MainThread): 10:34:32  Parsing macros/materializations/models/table/create_table_as.sql
+2022-10-04 10:34:32.259575 (MainThread): 10:34:32  Parsing macros/materializations/models/view/create_or_replace_view.sql
+2022-10-04 10:34:32.262711 (MainThread): 10:34:32  Parsing macros/materializations/models/view/helpers.sql
+2022-10-04 10:34:32.264000 (MainThread): 10:34:32  Parsing macros/materializations/models/view/create_view_as.sql
+2022-10-04 10:34:32.266372 (MainThread): 10:34:32  Parsing macros/materializations/models/view/view.sql
+2022-10-04 10:34:32.271846 (MainThread): 10:34:32  Parsing macros/materializations/models/incremental/incremental.sql
+2022-10-04 10:34:32.281045 (MainThread): 10:34:32  Parsing macros/materializations/models/incremental/on_schema_change.sql
+2022-10-04 10:34:32.296167 (MainThread): 10:34:32  Parsing macros/materializations/models/incremental/is_incremental.sql
+2022-10-04 10:34:32.297653 (MainThread): 10:34:32  Parsing macros/materializations/models/incremental/merge.sql
+2022-10-04 10:34:32.313636 (MainThread): 10:34:32  Parsing macros/materializations/models/incremental/column_helpers.sql
+2022-10-04 10:34:32.318155 (MainThread): 10:34:32  Parsing macros/materializations/seeds/helpers.sql
+2022-10-04 10:34:32.336768 (MainThread): 10:34:32  Parsing macros/materializations/seeds/seed.sql
+2022-10-04 10:34:32.343545 (MainThread): 10:34:32  Parsing macros/materializations/tests/helpers.sql
+2022-10-04 10:34:32.345326 (MainThread): 10:34:32  Parsing macros/materializations/tests/test.sql
+2022-10-04 10:34:32.349756 (MainThread): 10:34:32  Parsing macros/materializations/tests/where_subquery.sql
+2022-10-04 10:34:32.351577 (MainThread): 10:34:32  Parsing macros/materializations/snapshots/helpers.sql
+2022-10-04 10:34:32.364765 (MainThread): 10:34:32  Parsing macros/materializations/snapshots/strategies.sql
+2022-10-04 10:34:32.381204 (MainThread): 10:34:32  Parsing macros/materializations/snapshots/snapshot_merge.sql
+2022-10-04 10:34:32.382786 (MainThread): 10:34:32  Parsing macros/materializations/snapshots/snapshot.sql
+2022-10-04 10:34:32.394208 (MainThread): 10:34:32  Parsing tests/generic/builtin.sql
+2022-10-04 10:34:32.641872 (MainThread): 10:34:32  1699: static parser successfully parsed example/my_second_dbt_model.sql
+2022-10-04 10:34:32.652954 (MainThread): 10:34:32  1699: static parser successfully parsed example/my_first_dbt_model.sql
+2022-10-04 10:34:32.655305 (MainThread): 10:34:32  1699: static parser successfully parsed staging/jaffle_shop/stg_customers.sql
+2022-10-04 10:34:32.657438 (MainThread): 10:34:32  1699: static parser successfully parsed staging/jaffle_shop/stg_orders.sql
+2022-10-04 10:34:32.659732 (MainThread): 10:34:32  1699: static parser successfully parsed staging/stripe/stg_payments.sql
+2022-10-04 10:34:32.662134 (MainThread): 10:34:32  1699: static parser successfully parsed marts/core/dim_customers.sql
+2022-10-04 10:34:32.664672 (MainThread): 10:34:32  1699: static parser successfully parsed marts/core/fct_orders.sql
+2022-10-04 10:34:32.896837 (MainThread): 10:34:32  Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '27c74c51-67f2-472c-b21e-4d5e1bf4da8f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7eff674a8fa0>]}
+2022-10-04 10:34:32.925723 (MainThread): 10:34:32  Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '27c74c51-67f2-472c-b21e-4d5e1bf4da8f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7eff674a8eb0>]}
+2022-10-04 10:34:32.926058 (MainThread): 10:34:32  Found 7 models, 19 tests, 0 snapshots, 0 analyses, 289 macros, 0 operations, 0 seed files, 3 sources, 0 exposures, 0 metrics
+2022-10-04 10:34:32.926157 (MainThread): 10:34:32  Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '27c74c51-67f2-472c-b21e-4d5e1bf4da8f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7eff674a8fa0>]}
+2022-10-04 10:34:32.927844 (MainThread): 10:34:32  
+2022-10-04 10:34:32.928236 (MainThread): 10:34:32  Acquiring new redshift connection "master"
+2022-10-04 10:34:32.929384 (ThreadPoolExecutor-0_0): 10:34:32  Acquiring new redshift connection "list_dbtworkshop"
+2022-10-04 10:34:32.939615 (ThreadPoolExecutor-0_0): 10:34:32  Using redshift connection "list_dbtworkshop"
+2022-10-04 10:34:32.939729 (ThreadPoolExecutor-0_0): 10:34:32  On list_dbtworkshop: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "connection_name": "list_dbtworkshop"} */
+
+    select distinct nspname from pg_namespace
+  
+2022-10-04 10:34:32.939813 (ThreadPoolExecutor-0_0): 10:34:32  Opening a new connection, currently in state init
+2022-10-04 10:34:32.939894 (ThreadPoolExecutor-0_0): 10:34:32  Redshift adapter: Connecting to Redshift using 'database' credentials
+2022-10-04 10:34:34.166296 (Thread-452): handling poll request
+2022-10-04 10:34:34.166687 (Thread-452): 10:34:34  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c7d0f10>]}
+2022-10-04 10:34:34.167622 (Thread-452): sending response (<Response 14661 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:34.859932 (ThreadPoolExecutor-0_0): 10:34:34  SQL status: SELECT in 1.92 seconds
+2022-10-04 10:34:34.861236 (ThreadPoolExecutor-0_0): 10:34:34  On list_dbtworkshop: Close
+2022-10-04 10:34:34.862835 (ThreadPoolExecutor-1_0): 10:34:34  Acquiring new redshift connection "list_dbtworkshop_public"
+2022-10-04 10:34:34.869828 (ThreadPoolExecutor-1_0): 10:34:34  Using redshift connection "list_dbtworkshop_public"
+2022-10-04 10:34:34.869932 (ThreadPoolExecutor-1_0): 10:34:34  On list_dbtworkshop_public: BEGIN
+2022-10-04 10:34:34.870011 (ThreadPoolExecutor-1_0): 10:34:34  Opening a new connection, currently in state closed
+2022-10-04 10:34:34.870085 (ThreadPoolExecutor-1_0): 10:34:34  Redshift adapter: Connecting to Redshift using 'database' credentials
+2022-10-04 10:34:36.248447 (Thread-453): handling poll request
+2022-10-04 10:34:36.248839 (Thread-453): 10:34:36  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c7d0ee0>]}
+2022-10-04 10:34:36.249411 (Thread-453): sending response (<Response 2473 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:37.039492 (ThreadPoolExecutor-1_0): 10:34:37  SQL status: BEGIN in 2.17 seconds
+2022-10-04 10:34:37.039669 (ThreadPoolExecutor-1_0): 10:34:37  Using redshift connection "list_dbtworkshop_public"
+2022-10-04 10:34:37.039748 (ThreadPoolExecutor-1_0): 10:34:37  On list_dbtworkshop_public: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "connection_name": "list_dbtworkshop_public"} */
+select
+      'dbtworkshop' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'public'
+    union all
+    select
+      'dbtworkshop' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'public'
+  
+2022-10-04 10:34:37.280760 (ThreadPoolExecutor-1_0): 10:34:37  SQL status: SELECT in 0.24 seconds
+2022-10-04 10:34:37.282290 (ThreadPoolExecutor-1_0): 10:34:37  On list_dbtworkshop_public: ROLLBACK
+2022-10-04 10:34:37.495432 (ThreadPoolExecutor-1_0): 10:34:37  On list_dbtworkshop_public: Close
+2022-10-04 10:34:37.500489 (MainThread): 10:34:37  Using redshift connection "master"
+2022-10-04 10:34:37.500630 (MainThread): 10:34:37  On master: BEGIN
+2022-10-04 10:34:37.500713 (MainThread): 10:34:37  Opening a new connection, currently in state init
+2022-10-04 10:34:37.500790 (MainThread): 10:34:37  Redshift adapter: Connecting to Redshift using 'database' credentials
+2022-10-04 10:34:38.124889 (Thread-454): handling poll request
+2022-10-04 10:34:38.125290 (Thread-454): 10:34:38  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c30e9a0>]}
+2022-10-04 10:34:38.126188 (Thread-454): sending response (<Response 3817 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:39.660860 (MainThread): 10:34:39  SQL status: BEGIN in 2.16 seconds
+2022-10-04 10:34:39.661036 (MainThread): 10:34:39  Using redshift connection "master"
+2022-10-04 10:34:39.661115 (MainThread): 10:34:39  On master: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "connection_name": "master"} */
+with relation as (
+        select
+            pg_rewrite.ev_class as class,
+            pg_rewrite.oid as id
+        from pg_rewrite
+    ),
+    class as (
+        select
+            oid as id,
+            relname as name,
+            relnamespace as schema,
+            relkind as kind
+        from pg_class
+    ),
+    dependency as (
+        select distinct
+            pg_depend.objid as id,
+            pg_depend.refobjid as ref
+        from pg_depend
+    ),
+    schema as (
+        select
+            pg_namespace.oid as id,
+            pg_namespace.nspname as name
+        from pg_namespace
+        where nspname != 'information_schema' and nspname not like 'pg\_%'
+    ),
+    referenced as (
+        select
+            relation.id AS id,
+            referenced_class.name ,
+            referenced_class.schema ,
+            referenced_class.kind
+        from relation
+        join class as referenced_class on relation.class=referenced_class.id
+        where referenced_class.kind in ('r', 'v')
+    ),
+    relationships as (
+        select
+            referenced.name as referenced_name,
+            referenced.schema as referenced_schema_id,
+            dependent_class.name as dependent_name,
+            dependent_class.schema as dependent_schema_id,
+            referenced.kind as kind
+        from referenced
+        join dependency on referenced.id=dependency.id
+        join class as dependent_class on dependency.ref=dependent_class.id
+        where
+            (referenced.name != dependent_class.name or
+             referenced.schema != dependent_class.schema)
+    )
+
+    select
+        referenced_schema.name as referenced_schema,
+        relationships.referenced_name as referenced_name,
+        dependent_schema.name as dependent_schema,
+        relationships.dependent_name as dependent_name
+    from relationships
+    join schema as dependent_schema on relationships.dependent_schema_id=dependent_schema.id
+    join schema as referenced_schema on relationships.referenced_schema_id=referenced_schema.id
+    group by referenced_schema, referenced_name, dependent_schema, dependent_name
+    order by referenced_schema, referenced_name, dependent_schema, dependent_name;
+2022-10-04 10:34:39.933977 (MainThread): 10:34:39  SQL status: SELECT in 0.27 seconds
+2022-10-04 10:34:39.935432 (MainThread): 10:34:39  Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '27c74c51-67f2-472c-b21e-4d5e1bf4da8f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7eff64baec40>]}
+2022-10-04 10:34:39.935710 (MainThread): 10:34:39  On master: ROLLBACK
+2022-10-04 10:34:40.148804 (MainThread): 10:34:40  Using redshift connection "master"
+2022-10-04 10:34:40.148969 (MainThread): 10:34:40  On master: BEGIN
+2022-10-04 10:34:40.406135 (Thread-455): handling poll request
+2022-10-04 10:34:40.406537 (Thread-455): 10:34:40  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f228d3b3fd0>]}
+2022-10-04 10:34:40.407167 (Thread-455): sending response (<Response 5108 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:40.574765 (MainThread): 10:34:40  SQL status: BEGIN in 0.43 seconds
+2022-10-04 10:34:40.574966 (MainThread): 10:34:40  On master: COMMIT
+2022-10-04 10:34:40.575054 (MainThread): 10:34:40  Using redshift connection "master"
+2022-10-04 10:34:40.575142 (MainThread): 10:34:40  On master: COMMIT
+2022-10-04 10:34:40.787826 (MainThread): 10:34:40  SQL status: COMMIT in 0.21 seconds
+2022-10-04 10:34:40.788034 (MainThread): 10:34:40  On master: Close
+2022-10-04 10:34:40.788659 (MainThread): 10:34:40  Concurrency: 4 threads (target='default')
+2022-10-04 10:34:40.788794 (MainThread): 10:34:40  
+2022-10-04 10:34:40.791194 (Thread-1): 10:34:40  Began running node model.jaffle_shop.my_first_dbt_model
+2022-10-04 10:34:40.791505 (Thread-1): 10:34:40  1 of 7 START table model public.my_first_dbt_model ............................. [RUN]
+2022-10-04 10:34:40.791797 (Thread-1): 10:34:40  Acquiring new redshift connection "model.jaffle_shop.my_first_dbt_model"
+2022-10-04 10:34:40.791904 (Thread-1): 10:34:40  Began compiling node model.jaffle_shop.my_first_dbt_model
+2022-10-04 10:34:40.792000 (Thread-1): 10:34:40  Compiling model.jaffle_shop.my_first_dbt_model
+2022-10-04 10:34:40.794803 (Thread-1): 10:34:40  Writing injected SQL for node "model.jaffle_shop.my_first_dbt_model"
+2022-10-04 10:34:40.795052 (Thread-2): 10:34:40  Began running node model.jaffle_shop.stg_customers
+2022-10-04 10:34:40.795321 (Thread-2): 10:34:40  2 of 7 START view model public.stg_customers ................................... [RUN]
+2022-10-04 10:34:40.795596 (Thread-2): 10:34:40  Acquiring new redshift connection "model.jaffle_shop.stg_customers"
+2022-10-04 10:34:40.795690 (Thread-2): 10:34:40  Began compiling node model.jaffle_shop.stg_customers
+2022-10-04 10:34:40.795770 (Thread-2): 10:34:40  Compiling model.jaffle_shop.stg_customers
+2022-10-04 10:34:40.798178 (Thread-2): 10:34:40  Writing injected SQL for node "model.jaffle_shop.stg_customers"
+2022-10-04 10:34:40.798431 (Thread-3): 10:34:40  Began running node model.jaffle_shop.stg_orders
+2022-10-04 10:34:40.798653 (Thread-3): 10:34:40  3 of 7 START view model public.stg_orders ...................................... [RUN]
+2022-10-04 10:34:40.798911 (Thread-3): 10:34:40  Acquiring new redshift connection "model.jaffle_shop.stg_orders"
+2022-10-04 10:34:40.799002 (Thread-3): 10:34:40  Began compiling node model.jaffle_shop.stg_orders
+2022-10-04 10:34:40.799078 (Thread-3): 10:34:40  Compiling model.jaffle_shop.stg_orders
+2022-10-04 10:34:40.801472 (Thread-3): 10:34:40  Writing injected SQL for node "model.jaffle_shop.stg_orders"
+2022-10-04 10:34:40.801706 (Thread-4): 10:34:40  Began running node model.jaffle_shop.stg_payments
+2022-10-04 10:34:40.801918 (Thread-4): 10:34:40  4 of 7 START view model public.stg_payments .................................... [RUN]
+2022-10-04 10:34:40.802168 (Thread-4): 10:34:40  Acquiring new redshift connection "model.jaffle_shop.stg_payments"
+2022-10-04 10:34:40.802257 (Thread-4): 10:34:40  Began compiling node model.jaffle_shop.stg_payments
+2022-10-04 10:34:40.802332 (Thread-4): 10:34:40  Compiling model.jaffle_shop.stg_payments
+2022-10-04 10:34:40.805740 (Thread-4): 10:34:40  Writing injected SQL for node "model.jaffle_shop.stg_payments"
+2022-10-04 10:34:40.810295 (Thread-1): 10:34:40  finished collecting timing info
+2022-10-04 10:34:40.810440 (Thread-1): 10:34:40  Began executing node model.jaffle_shop.my_first_dbt_model
+2022-10-04 10:34:40.815643 (Thread-2): 10:34:40  finished collecting timing info
+2022-10-04 10:34:40.815779 (Thread-2): 10:34:40  Began executing node model.jaffle_shop.stg_customers
+2022-10-04 10:34:40.881538 (Thread-3): 10:34:40  finished collecting timing info
+2022-10-04 10:34:40.881715 (Thread-3): 10:34:40  Began executing node model.jaffle_shop.stg_orders
+2022-10-04 10:34:40.887261 (Thread-2): 10:34:40  Writing runtime SQL for node "model.jaffle_shop.stg_customers"
+2022-10-04 10:34:40.889070 (Thread-1): 10:34:40  Writing runtime SQL for node "model.jaffle_shop.my_first_dbt_model"
+2022-10-04 10:34:40.890474 (Thread-3): 10:34:40  Writing runtime SQL for node "model.jaffle_shop.stg_orders"
+2022-10-04 10:34:40.897585 (Thread-4): 10:34:40  finished collecting timing info
+2022-10-04 10:34:40.897745 (Thread-4): 10:34:40  Began executing node model.jaffle_shop.stg_payments
+2022-10-04 10:34:40.901254 (Thread-4): 10:34:40  Writing runtime SQL for node "model.jaffle_shop.stg_payments"
+2022-10-04 10:34:40.906064 (Thread-3): 10:34:40  Using redshift connection "model.jaffle_shop.stg_orders"
+2022-10-04 10:34:40.906175 (Thread-3): 10:34:40  On model.jaffle_shop.stg_orders: BEGIN
+2022-10-04 10:34:40.906256 (Thread-3): 10:34:40  Opening a new connection, currently in state init
+2022-10-04 10:34:40.906335 (Thread-3): 10:34:40  Redshift adapter: Connecting to Redshift using 'database' credentials
+2022-10-04 10:34:40.906671 (Thread-2): 10:34:40  Using redshift connection "model.jaffle_shop.stg_customers"
+2022-10-04 10:34:40.906766 (Thread-2): 10:34:40  On model.jaffle_shop.stg_customers: BEGIN
+2022-10-04 10:34:40.906840 (Thread-2): 10:34:40  Opening a new connection, currently in state init
+2022-10-04 10:34:40.906911 (Thread-2): 10:34:40  Redshift adapter: Connecting to Redshift using 'database' credentials
+2022-10-04 10:34:40.907186 (Thread-1): 10:34:40  Using redshift connection "model.jaffle_shop.my_first_dbt_model"
+2022-10-04 10:34:40.907287 (Thread-1): 10:34:40  On model.jaffle_shop.my_first_dbt_model: BEGIN
+2022-10-04 10:34:40.907364 (Thread-1): 10:34:40  Opening a new connection, currently in state closed
+2022-10-04 10:34:40.907438 (Thread-1): 10:34:40  Redshift adapter: Connecting to Redshift using 'database' credentials
+2022-10-04 10:34:40.916887 (Thread-4): 10:34:40  Using redshift connection "model.jaffle_shop.stg_payments"
+2022-10-04 10:34:40.916992 (Thread-4): 10:34:40  On model.jaffle_shop.stg_payments: BEGIN
+2022-10-04 10:34:40.917067 (Thread-4): 10:34:40  Opening a new connection, currently in state init
+2022-10-04 10:34:40.917136 (Thread-4): 10:34:40  Redshift adapter: Connecting to Redshift using 'database' credentials
+2022-10-04 10:34:42.478593 (Thread-456): handling poll request
+2022-10-04 10:34:42.478991 (Thread-456): 10:34:42  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c301550>]}
+2022-10-04 10:34:42.480199 (Thread-456): sending response (<Response 22996 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:44.196136 (Thread-3): 10:34:44  SQL status: BEGIN in 3.29 seconds
+2022-10-04 10:34:44.196327 (Thread-3): 10:34:44  Using redshift connection "model.jaffle_shop.stg_orders"
+2022-10-04 10:34:44.196406 (Thread-3): 10:34:44  On model.jaffle_shop.stg_orders: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.stg_orders"} */
+
+
+  create view "dbtworkshop"."public"."stg_orders__dbt_tmp" as (
+    with orders as (
+    
+    select
+        id as order_id,
+        user_id as customer_id,
+        order_date,
+        status
+
+    from "dbtworkshop"."jaffle_shop"."orders"
+)
+
+select * from orders
+  ) ;
+
+2022-10-04 10:34:44.196600 (Thread-2): 10:34:44  SQL status: BEGIN in 3.29 seconds
+2022-10-04 10:34:44.196728 (Thread-2): 10:34:44  Using redshift connection "model.jaffle_shop.stg_customers"
+2022-10-04 10:34:44.196804 (Thread-2): 10:34:44  On model.jaffle_shop.stg_customers: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.stg_customers"} */
+
+
+  create view "dbtworkshop"."public"."stg_customers__dbt_tmp" as (
+    with customers as (
+    
+    select 
+        id as customer_id,
+        first_name,
+        last_name
+
+    from "dbtworkshop"."jaffle_shop"."customers"
+)
+
+select * from customers
+  ) ;
+
+2022-10-04 10:34:44.269215 (Thread-457): handling poll request
+2022-10-04 10:34:44.269623 (Thread-457): 10:34:44  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c301730>]}
+2022-10-04 10:34:44.270194 (Thread-457): sending response (<Response 3229 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:44.406310 (Thread-1): 10:34:44  SQL status: BEGIN in 3.5 seconds
+2022-10-04 10:34:44.406492 (Thread-1): 10:34:44  Using redshift connection "model.jaffle_shop.my_first_dbt_model"
+2022-10-04 10:34:44.406572 (Thread-1): 10:34:44  On model.jaffle_shop.my_first_dbt_model: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.my_first_dbt_model"} */
+
+
+  create  table
+    "dbtworkshop"."public"."my_first_dbt_model__dbt_tmp"
+    
+    
+    
+  as (
+    /*
+    Welcome to your first dbt model!
+    Did you know that you can also configure models directly within SQL files?
+    This will override configurations stated in dbt_project.yml
+
+    Try changing "table" to "view" below
+*/
+
+
+
+with source_data as (
+
+    select 1 as id
+    union all
+    select null as id
+
+)
+
+select *
+from source_data
+
+/*
+    Uncomment the line below to remove records with null `id` values
+*/
+
+-- where id is not null
+  );
+2022-10-04 10:34:44.617136 (Thread-3): 10:34:44  SQL status: CREATE VIEW in 0.42 seconds
+2022-10-04 10:34:44.622193 (Thread-4): 10:34:44  SQL status: BEGIN in 3.71 seconds
+2022-10-04 10:34:44.622341 (Thread-4): 10:34:44  Using redshift connection "model.jaffle_shop.stg_payments"
+2022-10-04 10:34:44.622419 (Thread-4): 10:34:44  On model.jaffle_shop.stg_payments: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.stg_payments"} */
+
+
+  create view "dbtworkshop"."public"."stg_payments__dbt_tmp" as (
+    select
+    id as payment_id,
+    orderid as order_id,
+    paymentmethod as payment_method,
+    status,
+    -- amount is stored in cents, convert it to dollars
+    amount / 100 as amount,
+    created as created_at
+from "dbtworkshop"."stripe"."payment"
+  ) ;
+
+2022-10-04 10:34:44.622591 (Thread-2): 10:34:44  SQL status: CREATE VIEW in 0.43 seconds
+2022-10-04 10:34:44.629410 (Thread-3): 10:34:44  Using redshift connection "model.jaffle_shop.stg_orders"
+2022-10-04 10:34:44.629535 (Thread-3): 10:34:44  On model.jaffle_shop.stg_orders: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.stg_orders"} */
+alter table "dbtworkshop"."public"."stg_orders" rename to "stg_orders__dbt_backup"
+2022-10-04 10:34:44.629899 (Thread-2): 10:34:44  Using redshift connection "model.jaffle_shop.stg_customers"
+2022-10-04 10:34:44.630006 (Thread-2): 10:34:44  On model.jaffle_shop.stg_customers: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.stg_customers"} */
+alter table "dbtworkshop"."public"."stg_customers" rename to "stg_customers__dbt_backup"
+2022-10-04 10:34:44.832961 (Thread-1): 10:34:44  SQL status: SELECT in 0.43 seconds
+2022-10-04 10:34:44.835687 (Thread-1): 10:34:44  Using redshift connection "model.jaffle_shop.my_first_dbt_model"
+2022-10-04 10:34:44.835808 (Thread-1): 10:34:44  On model.jaffle_shop.my_first_dbt_model: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.my_first_dbt_model"} */
+alter table "dbtworkshop"."public"."my_first_dbt_model" rename to "my_first_dbt_model__dbt_backup"
+2022-10-04 10:34:45.046341 (Thread-3): 10:34:45  SQL status: ALTER TABLE in 0.42 seconds
+2022-10-04 10:34:45.048996 (Thread-3): 10:34:45  Using redshift connection "model.jaffle_shop.stg_orders"
+2022-10-04 10:34:45.049115 (Thread-3): 10:34:45  On model.jaffle_shop.stg_orders: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.stg_orders"} */
+alter table "dbtworkshop"."public"."stg_orders__dbt_tmp" rename to "stg_orders"
+2022-10-04 10:34:45.049321 (Thread-2): 10:34:45  SQL status: ALTER TABLE in 0.42 seconds
+2022-10-04 10:34:45.051625 (Thread-2): 10:34:45  Using redshift connection "model.jaffle_shop.stg_customers"
+2022-10-04 10:34:45.051731 (Thread-2): 10:34:45  On model.jaffle_shop.stg_customers: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.stg_customers"} */
+alter table "dbtworkshop"."public"."stg_customers__dbt_tmp" rename to "stg_customers"
+2022-10-04 10:34:45.051917 (Thread-4): 10:34:45  SQL status: CREATE VIEW in 0.43 seconds
+2022-10-04 10:34:45.054115 (Thread-4): 10:34:45  Using redshift connection "model.jaffle_shop.stg_payments"
+2022-10-04 10:34:45.054213 (Thread-4): 10:34:45  On model.jaffle_shop.stg_payments: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.stg_payments"} */
+alter table "dbtworkshop"."public"."stg_payments" rename to "stg_payments__dbt_backup"
+2022-10-04 10:34:45.259599 (Thread-1): 10:34:45  SQL status: ALTER TABLE in 0.42 seconds
+2022-10-04 10:34:45.262373 (Thread-1): 10:34:45  Using redshift connection "model.jaffle_shop.my_first_dbt_model"
+2022-10-04 10:34:45.262500 (Thread-1): 10:34:45  On model.jaffle_shop.my_first_dbt_model: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.my_first_dbt_model"} */
+alter table "dbtworkshop"."public"."my_first_dbt_model__dbt_tmp" rename to "my_first_dbt_model"
+2022-10-04 10:34:45.473006 (Thread-3): 10:34:45  SQL status: ALTER TABLE in 0.42 seconds
+2022-10-04 10:34:45.483261 (Thread-2): 10:34:45  SQL status: ALTER TABLE in 0.43 seconds
+2022-10-04 10:34:45.493516 (Thread-4): 10:34:45  SQL status: ALTER TABLE in 0.44 seconds
+2022-10-04 10:34:45.495832 (Thread-4): 10:34:45  Using redshift connection "model.jaffle_shop.stg_payments"
+2022-10-04 10:34:45.495938 (Thread-4): 10:34:45  On model.jaffle_shop.stg_payments: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.stg_payments"} */
+alter table "dbtworkshop"."public"."stg_payments__dbt_tmp" rename to "stg_payments"
+2022-10-04 10:34:45.502593 (Thread-2): 10:34:45  On model.jaffle_shop.stg_customers: COMMIT
+2022-10-04 10:34:45.502708 (Thread-2): 10:34:45  Using redshift connection "model.jaffle_shop.stg_customers"
+2022-10-04 10:34:45.502779 (Thread-2): 10:34:45  On model.jaffle_shop.stg_customers: COMMIT
+2022-10-04 10:34:45.503193 (Thread-3): 10:34:45  On model.jaffle_shop.stg_orders: COMMIT
+2022-10-04 10:34:45.503299 (Thread-3): 10:34:45  Using redshift connection "model.jaffle_shop.stg_orders"
+2022-10-04 10:34:45.503369 (Thread-3): 10:34:45  On model.jaffle_shop.stg_orders: COMMIT
+2022-10-04 10:34:45.706430 (Thread-1): 10:34:45  SQL status: ALTER TABLE in 0.44 seconds
+2022-10-04 10:34:45.712350 (Thread-1): 10:34:45  On model.jaffle_shop.my_first_dbt_model: COMMIT
+2022-10-04 10:34:45.712485 (Thread-1): 10:34:45  Using redshift connection "model.jaffle_shop.my_first_dbt_model"
+2022-10-04 10:34:45.712558 (Thread-1): 10:34:45  On model.jaffle_shop.my_first_dbt_model: COMMIT
+2022-10-04 10:34:45.923106 (Thread-3): 10:34:45  SQL status: COMMIT in 0.42 seconds
+2022-10-04 10:34:45.923530 (Thread-3): 10:34:45  Using redshift connection "model.jaffle_shop.stg_orders"
+2022-10-04 10:34:45.923633 (Thread-3): 10:34:45  On model.jaffle_shop.stg_orders: BEGIN
+2022-10-04 10:34:45.923835 (Thread-4): 10:34:45  SQL status: ALTER TABLE in 0.43 seconds
+2022-10-04 10:34:45.925473 (Thread-4): 10:34:45  On model.jaffle_shop.stg_payments: COMMIT
+2022-10-04 10:34:45.925575 (Thread-4): 10:34:45  Using redshift connection "model.jaffle_shop.stg_payments"
+2022-10-04 10:34:45.925647 (Thread-4): 10:34:45  On model.jaffle_shop.stg_payments: COMMIT
+2022-10-04 10:34:45.925920 (Thread-2): 10:34:45  SQL status: COMMIT in 0.42 seconds
+2022-10-04 10:34:46.134163 (Thread-1): 10:34:46  SQL status: COMMIT in 0.42 seconds
+2022-10-04 10:34:46.386621 (Thread-4): 10:34:46  SQL status: COMMIT in 0.46 seconds
+2022-10-04 10:34:46.387106 (Thread-3): 10:34:46  SQL status: BEGIN in 0.46 seconds
+2022-10-04 10:34:46.392371 (Thread-3): 10:34:46  Using redshift connection "model.jaffle_shop.stg_orders"
+2022-10-04 10:34:46.392490 (Thread-3): 10:34:46  On model.jaffle_shop.stg_orders: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.stg_orders"} */
+drop view if exists "dbtworkshop"."public"."stg_orders__dbt_backup" cascade
+2022-10-04 10:34:46.552342 (Thread-458): handling poll request
+2022-10-04 10:34:46.552734 (Thread-458): 10:34:46  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f228c2b6cd0>]}
+2022-10-04 10:34:46.553725 (Thread-458): sending response (<Response 22756 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:46.607359 (Thread-3): 10:34:46  SQL status: DROP VIEW in 0.21 seconds
+2022-10-04 10:34:46.608264 (Thread-3): 10:34:46  On model.jaffle_shop.stg_orders: COMMIT
+2022-10-04 10:34:46.608399 (Thread-3): 10:34:46  Using redshift connection "model.jaffle_shop.stg_orders"
+2022-10-04 10:34:46.608474 (Thread-3): 10:34:46  On model.jaffle_shop.stg_orders: COMMIT
+2022-10-04 10:34:46.846002 (Thread-3): 10:34:46  SQL status: COMMIT in 0.24 seconds
+2022-10-04 10:34:46.846191 (Thread-3): 10:34:46  Using redshift connection "model.jaffle_shop.stg_orders"
+2022-10-04 10:34:46.846270 (Thread-3): 10:34:46  On model.jaffle_shop.stg_orders: BEGIN
+2022-10-04 10:34:47.059018 (Thread-3): 10:34:47  SQL status: BEGIN in 0.21 seconds
+2022-10-04 10:34:47.059737 (Thread-3): 10:34:47  finished collecting timing info
+2022-10-04 10:34:47.059910 (Thread-3): 10:34:47  On model.jaffle_shop.stg_orders: ROLLBACK
+2022-10-04 10:34:47.060263 (Thread-2): 10:34:47  Using redshift connection "model.jaffle_shop.stg_customers"
+2022-10-04 10:34:47.060395 (Thread-2): 10:34:47  On model.jaffle_shop.stg_customers: BEGIN
+2022-10-04 10:34:47.273453 (Thread-3): 10:34:47  On model.jaffle_shop.stg_orders: Close
+2022-10-04 10:34:47.274182 (Thread-3): 10:34:47  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '27c74c51-67f2-472c-b21e-4d5e1bf4da8f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7eff64286f40>]}
+2022-10-04 10:34:47.274649 (Thread-3): 10:34:47  3 of 7 OK created view model public.stg_orders ................................. [CREATE VIEW in 6.48s]
+2022-10-04 10:34:47.274897 (Thread-3): 10:34:47  Finished running node model.jaffle_shop.stg_orders
+2022-10-04 10:34:47.483989 (Thread-2): 10:34:47  SQL status: BEGIN in 0.42 seconds
+2022-10-04 10:34:47.486163 (Thread-2): 10:34:47  Using redshift connection "model.jaffle_shop.stg_customers"
+2022-10-04 10:34:47.486282 (Thread-2): 10:34:47  On model.jaffle_shop.stg_customers: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.stg_customers"} */
+drop view if exists "dbtworkshop"."public"."stg_customers__dbt_backup" cascade
+2022-10-04 10:34:47.907001 (Thread-2): 10:34:47  SQL status: DROP VIEW in 0.42 seconds
+2022-10-04 10:34:47.908063 (Thread-2): 10:34:47  On model.jaffle_shop.stg_customers: COMMIT
+2022-10-04 10:34:47.908209 (Thread-2): 10:34:47  Using redshift connection "model.jaffle_shop.stg_customers"
+2022-10-04 10:34:47.908286 (Thread-2): 10:34:47  On model.jaffle_shop.stg_customers: COMMIT
+2022-10-04 10:34:48.148885 (Thread-2): 10:34:48  SQL status: COMMIT in 0.24 seconds
+2022-10-04 10:34:48.149082 (Thread-2): 10:34:48  Using redshift connection "model.jaffle_shop.stg_customers"
+2022-10-04 10:34:48.149161 (Thread-2): 10:34:48  On model.jaffle_shop.stg_customers: BEGIN
+2022-10-04 10:34:48.279910 (Thread-459): handling poll request
+2022-10-04 10:34:48.280373 (Thread-459): 10:34:48  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f228d695520>]}
+2022-10-04 10:34:48.281111 (Thread-459): sending response (<Response 9851 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:48.364624 (Thread-2): 10:34:48  SQL status: BEGIN in 0.22 seconds
+2022-10-04 10:34:48.365288 (Thread-2): 10:34:48  finished collecting timing info
+2022-10-04 10:34:48.365451 (Thread-2): 10:34:48  On model.jaffle_shop.stg_customers: ROLLBACK
+2022-10-04 10:34:48.365783 (Thread-1): 10:34:48  Using redshift connection "model.jaffle_shop.my_first_dbt_model"
+2022-10-04 10:34:48.365917 (Thread-1): 10:34:48  On model.jaffle_shop.my_first_dbt_model: BEGIN
+2022-10-04 10:34:48.579070 (Thread-1): 10:34:48  SQL status: BEGIN in 0.21 seconds
+2022-10-04 10:34:48.582594 (Thread-1): 10:34:48  Using redshift connection "model.jaffle_shop.my_first_dbt_model"
+2022-10-04 10:34:48.582717 (Thread-1): 10:34:48  On model.jaffle_shop.my_first_dbt_model: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.my_first_dbt_model"} */
+drop table if exists "dbtworkshop"."public"."my_first_dbt_model__dbt_backup" cascade
+2022-10-04 10:34:48.793225 (Thread-2): 10:34:48  On model.jaffle_shop.stg_customers: Close
+2022-10-04 10:34:48.793950 (Thread-2): 10:34:48  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '27c74c51-67f2-472c-b21e-4d5e1bf4da8f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7eff674a8df0>]}
+2022-10-04 10:34:48.794330 (Thread-2): 10:34:48  2 of 7 OK created view model public.stg_customers .............................. [CREATE VIEW in 8.00s]
+2022-10-04 10:34:48.794555 (Thread-2): 10:34:48  Finished running node model.jaffle_shop.stg_customers
+2022-10-04 10:34:49.003783 (Thread-1): 10:34:49  SQL status: DROP TABLE in 0.42 seconds
+2022-10-04 10:34:49.004722 (Thread-1): 10:34:49  On model.jaffle_shop.my_first_dbt_model: COMMIT
+2022-10-04 10:34:49.004833 (Thread-1): 10:34:49  Using redshift connection "model.jaffle_shop.my_first_dbt_model"
+2022-10-04 10:34:49.004909 (Thread-1): 10:34:49  On model.jaffle_shop.my_first_dbt_model: COMMIT
+2022-10-04 10:34:49.425958 (Thread-1): 10:34:49  SQL status: COMMIT in 0.42 seconds
+2022-10-04 10:34:49.426152 (Thread-1): 10:34:49  Using redshift connection "model.jaffle_shop.my_first_dbt_model"
+2022-10-04 10:34:49.426231 (Thread-1): 10:34:49  On model.jaffle_shop.my_first_dbt_model: BEGIN
+2022-10-04 10:34:49.639918 (Thread-1): 10:34:49  SQL status: BEGIN in 0.21 seconds
+2022-10-04 10:34:49.640583 (Thread-1): 10:34:49  finished collecting timing info
+2022-10-04 10:34:49.640738 (Thread-1): 10:34:49  On model.jaffle_shop.my_first_dbt_model: ROLLBACK
+2022-10-04 10:34:49.641059 (Thread-4): 10:34:49  Using redshift connection "model.jaffle_shop.stg_payments"
+2022-10-04 10:34:49.641182 (Thread-4): 10:34:49  On model.jaffle_shop.stg_payments: BEGIN
+2022-10-04 10:34:49.854455 (Thread-4): 10:34:49  SQL status: BEGIN in 0.21 seconds
+2022-10-04 10:34:49.856614 (Thread-4): 10:34:49  Using redshift connection "model.jaffle_shop.stg_payments"
+2022-10-04 10:34:49.856737 (Thread-4): 10:34:49  On model.jaffle_shop.stg_payments: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.stg_payments"} */
+drop view if exists "dbtworkshop"."public"."stg_payments__dbt_backup" cascade
+2022-10-04 10:34:50.067240 (Thread-1): 10:34:50  On model.jaffle_shop.my_first_dbt_model: Close
+2022-10-04 10:34:50.067941 (Thread-1): 10:34:50  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '27c74c51-67f2-472c-b21e-4d5e1bf4da8f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7eff641409a0>]}
+2022-10-04 10:34:50.068440 (Thread-1): 10:34:50  1 of 7 OK created table model public.my_first_dbt_model ........................ [SELECT in 9.28s]
+2022-10-04 10:34:50.068675 (Thread-1): 10:34:50  Finished running node model.jaffle_shop.my_first_dbt_model
+2022-10-04 10:34:50.069309 (Thread-3): 10:34:50  Began running node model.jaffle_shop.my_second_dbt_model
+2022-10-04 10:34:50.069561 (Thread-3): 10:34:50  5 of 7 START view model public.my_second_dbt_model ............................. [RUN]
+2022-10-04 10:34:50.069824 (Thread-3): 10:34:50  Acquiring new redshift connection "model.jaffle_shop.my_second_dbt_model"
+2022-10-04 10:34:50.069927 (Thread-3): 10:34:50  Began compiling node model.jaffle_shop.my_second_dbt_model
+2022-10-04 10:34:50.070012 (Thread-3): 10:34:50  Compiling model.jaffle_shop.my_second_dbt_model
+2022-10-04 10:34:50.072586 (Thread-3): 10:34:50  Writing injected SQL for node "model.jaffle_shop.my_second_dbt_model"
+2022-10-04 10:34:50.086300 (Thread-3): 10:34:50  finished collecting timing info
+2022-10-04 10:34:50.086483 (Thread-3): 10:34:50  Began executing node model.jaffle_shop.my_second_dbt_model
+2022-10-04 10:34:50.090152 (Thread-3): 10:34:50  Writing runtime SQL for node "model.jaffle_shop.my_second_dbt_model"
+2022-10-04 10:34:50.105859 (Thread-3): 10:34:50  Using redshift connection "model.jaffle_shop.my_second_dbt_model"
+2022-10-04 10:34:50.106001 (Thread-3): 10:34:50  On model.jaffle_shop.my_second_dbt_model: BEGIN
+2022-10-04 10:34:50.106084 (Thread-3): 10:34:50  Opening a new connection, currently in state closed
+2022-10-04 10:34:50.106164 (Thread-3): 10:34:50  Redshift adapter: Connecting to Redshift using 'database' credentials
+2022-10-04 10:34:50.279194 (Thread-4): 10:34:50  SQL status: DROP VIEW in 0.42 seconds
+2022-10-04 10:34:50.280132 (Thread-4): 10:34:50  On model.jaffle_shop.stg_payments: COMMIT
+2022-10-04 10:34:50.280252 (Thread-4): 10:34:50  Using redshift connection "model.jaffle_shop.stg_payments"
+2022-10-04 10:34:50.280331 (Thread-4): 10:34:50  On model.jaffle_shop.stg_payments: COMMIT
+2022-10-04 10:34:50.404976 (Thread-460): handling poll request
+2022-10-04 10:34:50.405379 (Thread-460): 10:34:50  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c304670>]}
+2022-10-04 10:34:50.406301 (Thread-460): sending response (<Response 19097 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:50.702275 (Thread-4): 10:34:50  SQL status: COMMIT in 0.42 seconds
+2022-10-04 10:34:50.702466 (Thread-4): 10:34:50  Using redshift connection "model.jaffle_shop.stg_payments"
+2022-10-04 10:34:50.702544 (Thread-4): 10:34:50  On model.jaffle_shop.stg_payments: BEGIN
+2022-10-04 10:34:51.123595 (Thread-4): 10:34:51  SQL status: BEGIN in 0.42 seconds
+2022-10-04 10:34:51.124261 (Thread-4): 10:34:51  finished collecting timing info
+2022-10-04 10:34:51.124440 (Thread-4): 10:34:51  On model.jaffle_shop.stg_payments: ROLLBACK
+2022-10-04 10:34:51.545227 (Thread-4): 10:34:51  On model.jaffle_shop.stg_payments: Close
+2022-10-04 10:34:51.545927 (Thread-4): 10:34:51  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '27c74c51-67f2-472c-b21e-4d5e1bf4da8f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7eff64b55c10>]}
+2022-10-04 10:34:51.546322 (Thread-4): 10:34:51  4 of 7 OK created view model public.stg_payments ............................... [CREATE VIEW in 10.74s]
+2022-10-04 10:34:51.546566 (Thread-4): 10:34:51  Finished running node model.jaffle_shop.stg_payments
+2022-10-04 10:34:51.547250 (Thread-1): 10:34:51  Began running node model.jaffle_shop.fct_orders
+2022-10-04 10:34:51.547510 (Thread-1): 10:34:51  6 of 7 START table model public.fct_orders ..................................... [RUN]
+2022-10-04 10:34:51.547797 (Thread-1): 10:34:51  Acquiring new redshift connection "model.jaffle_shop.fct_orders"
+2022-10-04 10:34:51.547904 (Thread-1): 10:34:51  Began compiling node model.jaffle_shop.fct_orders
+2022-10-04 10:34:51.547990 (Thread-1): 10:34:51  Compiling model.jaffle_shop.fct_orders
+2022-10-04 10:34:51.551101 (Thread-1): 10:34:51  Writing injected SQL for node "model.jaffle_shop.fct_orders"
+2022-10-04 10:34:51.563954 (Thread-1): 10:34:51  finished collecting timing info
+2022-10-04 10:34:51.564187 (Thread-1): 10:34:51  Began executing node model.jaffle_shop.fct_orders
+2022-10-04 10:34:51.568140 (Thread-1): 10:34:51  Writing runtime SQL for node "model.jaffle_shop.fct_orders"
+2022-10-04 10:34:51.580295 (Thread-1): 10:34:51  Using redshift connection "model.jaffle_shop.fct_orders"
+2022-10-04 10:34:51.580460 (Thread-1): 10:34:51  On model.jaffle_shop.fct_orders: BEGIN
+2022-10-04 10:34:51.580549 (Thread-1): 10:34:51  Opening a new connection, currently in state closed
+2022-10-04 10:34:51.580628 (Thread-1): 10:34:51  Redshift adapter: Connecting to Redshift using 'database' credentials
+2022-10-04 10:34:52.317204 (Thread-461): handling poll request
+2022-10-04 10:34:52.317628 (Thread-461): 10:34:52  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c0381f0>]}
+2022-10-04 10:34:52.318364 (Thread-461): sending response (<Response 9205 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:53.858012 (Thread-3): 10:34:53  SQL status: BEGIN in 3.75 seconds
+2022-10-04 10:34:53.858191 (Thread-3): 10:34:53  Using redshift connection "model.jaffle_shop.my_second_dbt_model"
+2022-10-04 10:34:53.858270 (Thread-3): 10:34:53  On model.jaffle_shop.my_second_dbt_model: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.my_second_dbt_model"} */
+
+
+  create view "dbtworkshop"."public"."my_second_dbt_model__dbt_tmp" as (
+    -- Use the `ref` function to select from other models
+
+select *
+from "dbtworkshop"."public"."my_first_dbt_model"
+where id = 1
+  ) ;
+
+2022-10-04 10:34:54.246440 (Thread-462): handling poll request
+2022-10-04 10:34:54.246849 (Thread-462): 10:34:54  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c7def40>]}
+2022-10-04 10:34:54.247433 (Thread-462): sending response (<Response 1742 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:54.279407 (Thread-3): 10:34:54  SQL status: CREATE VIEW in 0.42 seconds
+2022-10-04 10:34:54.282196 (Thread-3): 10:34:54  Using redshift connection "model.jaffle_shop.my_second_dbt_model"
+2022-10-04 10:34:54.282313 (Thread-3): 10:34:54  On model.jaffle_shop.my_second_dbt_model: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.my_second_dbt_model"} */
+alter table "dbtworkshop"."public"."my_second_dbt_model__dbt_tmp" rename to "my_second_dbt_model"
+2022-10-04 10:34:54.703104 (Thread-3): 10:34:54  SQL status: ALTER TABLE in 0.42 seconds
+2022-10-04 10:34:54.704723 (Thread-3): 10:34:54  On model.jaffle_shop.my_second_dbt_model: COMMIT
+2022-10-04 10:34:54.704835 (Thread-3): 10:34:54  Using redshift connection "model.jaffle_shop.my_second_dbt_model"
+2022-10-04 10:34:54.704907 (Thread-3): 10:34:54  On model.jaffle_shop.my_second_dbt_model: COMMIT
+2022-10-04 10:34:55.125764 (Thread-3): 10:34:55  SQL status: COMMIT in 0.42 seconds
+2022-10-04 10:34:55.126141 (Thread-3): 10:34:55  Using redshift connection "model.jaffle_shop.my_second_dbt_model"
+2022-10-04 10:34:55.126234 (Thread-3): 10:34:55  On model.jaffle_shop.my_second_dbt_model: BEGIN
+2022-10-04 10:34:55.336737 (Thread-1): 10:34:55  SQL status: BEGIN in 3.76 seconds
+2022-10-04 10:34:55.336927 (Thread-1): 10:34:55  Using redshift connection "model.jaffle_shop.fct_orders"
+2022-10-04 10:34:55.337008 (Thread-1): 10:34:55  On model.jaffle_shop.fct_orders: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.fct_orders"} */
+
+
+  create  table
+    "dbtworkshop"."public"."fct_orders__dbt_tmp"
+    
+    
+    
+  as (
+    with orders as  (
+    select * from "dbtworkshop"."public"."stg_orders"
+),
+
+payments as (
+    select * from "dbtworkshop"."public"."stg_payments"
+),
+
+order_payments as (
+    select
+        order_id,
+        sum(case when status = 'success' then amount end) as amount
+
+    from payments
+    group by 1
+),
+
+final as (
+
+    select
+        orders.order_id,
+        orders.customer_id,
+        orders.order_date,
+        coalesce(order_payments.amount, 0) as amount
+
+    from orders
+    left join order_payments using (order_id)
+)
+
+select * from final
+  );
+2022-10-04 10:34:55.547591 (Thread-3): 10:34:55  SQL status: BEGIN in 0.42 seconds
+2022-10-04 10:34:55.549632 (Thread-3): 10:34:55  Using redshift connection "model.jaffle_shop.my_second_dbt_model"
+2022-10-04 10:34:55.549754 (Thread-3): 10:34:55  On model.jaffle_shop.my_second_dbt_model: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.my_second_dbt_model"} */
+drop view if exists "dbtworkshop"."public"."my_second_dbt_model__dbt_backup" cascade
+2022-10-04 10:34:55.760304 (Thread-1): 10:34:55  SQL status: SELECT in 0.42 seconds
+2022-10-04 10:34:55.763063 (Thread-1): 10:34:55  Using redshift connection "model.jaffle_shop.fct_orders"
+2022-10-04 10:34:55.763219 (Thread-1): 10:34:55  On model.jaffle_shop.fct_orders: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.fct_orders"} */
+alter table "dbtworkshop"."public"."fct_orders" rename to "fct_orders__dbt_backup"
+2022-10-04 10:34:55.973721 (Thread-3): 10:34:55  SQL status: DROP VIEW in 0.42 seconds
+2022-10-04 10:34:55.974607 (Thread-3): 10:34:55  On model.jaffle_shop.my_second_dbt_model: COMMIT
+2022-10-04 10:34:55.974711 (Thread-3): 10:34:55  Using redshift connection "model.jaffle_shop.my_second_dbt_model"
+2022-10-04 10:34:55.974785 (Thread-3): 10:34:55  On model.jaffle_shop.my_second_dbt_model: COMMIT
+2022-10-04 10:34:56.068608 (Thread-463): handling poll request
+2022-10-04 10:34:56.068996 (Thread-463): 10:34:56  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c7ded00>]}
+2022-10-04 10:34:56.069696 (Thread-463): sending response (<Response 9974 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:56.185249 (Thread-1): 10:34:56  SQL status: ALTER TABLE in 0.42 seconds
+2022-10-04 10:34:56.187871 (Thread-1): 10:34:56  Using redshift connection "model.jaffle_shop.fct_orders"
+2022-10-04 10:34:56.187989 (Thread-1): 10:34:56  On model.jaffle_shop.fct_orders: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.fct_orders"} */
+alter table "dbtworkshop"."public"."fct_orders__dbt_tmp" rename to "fct_orders"
+2022-10-04 10:34:56.398610 (Thread-3): 10:34:56  SQL status: COMMIT in 0.42 seconds
+2022-10-04 10:34:56.398797 (Thread-3): 10:34:56  Using redshift connection "model.jaffle_shop.my_second_dbt_model"
+2022-10-04 10:34:56.398875 (Thread-3): 10:34:56  On model.jaffle_shop.my_second_dbt_model: BEGIN
+2022-10-04 10:34:56.609394 (Thread-1): 10:34:56  SQL status: ALTER TABLE in 0.42 seconds
+2022-10-04 10:34:56.611303 (Thread-1): 10:34:56  On model.jaffle_shop.fct_orders: COMMIT
+2022-10-04 10:34:56.611422 (Thread-1): 10:34:56  Using redshift connection "model.jaffle_shop.fct_orders"
+2022-10-04 10:34:56.611496 (Thread-1): 10:34:56  On model.jaffle_shop.fct_orders: COMMIT
+2022-10-04 10:34:56.821951 (Thread-3): 10:34:56  SQL status: BEGIN in 0.42 seconds
+2022-10-04 10:34:56.822552 (Thread-3): 10:34:56  finished collecting timing info
+2022-10-04 10:34:56.822706 (Thread-3): 10:34:56  On model.jaffle_shop.my_second_dbt_model: ROLLBACK
+2022-10-04 10:34:57.033286 (Thread-1): 10:34:57  SQL status: COMMIT in 0.42 seconds
+2022-10-04 10:34:57.033671 (Thread-1): 10:34:57  Using redshift connection "model.jaffle_shop.fct_orders"
+2022-10-04 10:34:57.033765 (Thread-1): 10:34:57  On model.jaffle_shop.fct_orders: BEGIN
+2022-10-04 10:34:57.244234 (Thread-3): 10:34:57  On model.jaffle_shop.my_second_dbt_model: Close
+2022-10-04 10:34:57.244915 (Thread-3): 10:34:57  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '27c74c51-67f2-472c-b21e-4d5e1bf4da8f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7eff64141f70>]}
+2022-10-04 10:34:57.245303 (Thread-3): 10:34:57  5 of 7 OK created view model public.my_second_dbt_model ........................ [CREATE VIEW in 7.18s]
+2022-10-04 10:34:57.245539 (Thread-3): 10:34:57  Finished running node model.jaffle_shop.my_second_dbt_model
+2022-10-04 10:34:57.454879 (Thread-1): 10:34:57  SQL status: BEGIN in 0.42 seconds
+2022-10-04 10:34:57.458507 (Thread-1): 10:34:57  Using redshift connection "model.jaffle_shop.fct_orders"
+2022-10-04 10:34:57.458636 (Thread-1): 10:34:57  On model.jaffle_shop.fct_orders: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.fct_orders"} */
+drop table if exists "dbtworkshop"."public"."fct_orders__dbt_backup" cascade
+2022-10-04 10:34:57.879411 (Thread-1): 10:34:57  SQL status: DROP TABLE in 0.42 seconds
+2022-10-04 10:34:57.880363 (Thread-1): 10:34:57  On model.jaffle_shop.fct_orders: COMMIT
+2022-10-04 10:34:57.880477 (Thread-1): 10:34:57  Using redshift connection "model.jaffle_shop.fct_orders"
+2022-10-04 10:34:57.880552 (Thread-1): 10:34:57  On model.jaffle_shop.fct_orders: COMMIT
+2022-10-04 10:34:58.123739 (Thread-1): 10:34:58  SQL status: COMMIT in 0.24 seconds
+2022-10-04 10:34:58.123935 (Thread-1): 10:34:58  Using redshift connection "model.jaffle_shop.fct_orders"
+2022-10-04 10:34:58.124016 (Thread-1): 10:34:58  On model.jaffle_shop.fct_orders: BEGIN
+2022-10-04 10:34:58.303534 (Thread-464): handling poll request
+2022-10-04 10:34:58.303945 (Thread-464): 10:34:58  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f228c2a1520>]}
+2022-10-04 10:34:58.328824 (Thread-464): sending response (<Response 11515 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:34:58.337245 (Thread-1): 10:34:58  SQL status: BEGIN in 0.21 seconds
+2022-10-04 10:34:58.337874 (Thread-1): 10:34:58  finished collecting timing info
+2022-10-04 10:34:58.338034 (Thread-1): 10:34:58  On model.jaffle_shop.fct_orders: ROLLBACK
+2022-10-04 10:34:58.551074 (Thread-1): 10:34:58  On model.jaffle_shop.fct_orders: Close
+2022-10-04 10:34:58.551857 (Thread-1): 10:34:58  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '27c74c51-67f2-472c-b21e-4d5e1bf4da8f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7eff6429ac70>]}
+2022-10-04 10:34:58.552397 (Thread-1): 10:34:58  6 of 7 OK created table model public.fct_orders ................................ [SELECT in 7.00s]
+2022-10-04 10:34:58.552672 (Thread-1): 10:34:58  Finished running node model.jaffle_shop.fct_orders
+2022-10-04 10:34:58.553598 (Thread-4): 10:34:58  Began running node model.jaffle_shop.dim_customers
+2022-10-04 10:34:58.553847 (Thread-4): 10:34:58  7 of 7 START table model public.dim_customers .................................. [RUN]
+2022-10-04 10:34:58.554125 (Thread-4): 10:34:58  Acquiring new redshift connection "model.jaffle_shop.dim_customers"
+2022-10-04 10:34:58.554223 (Thread-4): 10:34:58  Began compiling node model.jaffle_shop.dim_customers
+2022-10-04 10:34:58.554307 (Thread-4): 10:34:58  Compiling model.jaffle_shop.dim_customers
+2022-10-04 10:34:58.557244 (Thread-4): 10:34:58  Writing injected SQL for node "model.jaffle_shop.dim_customers"
+2022-10-04 10:34:58.569555 (Thread-4): 10:34:58  finished collecting timing info
+2022-10-04 10:34:58.569754 (Thread-4): 10:34:58  Began executing node model.jaffle_shop.dim_customers
+2022-10-04 10:34:58.573819 (Thread-4): 10:34:58  Writing runtime SQL for node "model.jaffle_shop.dim_customers"
+2022-10-04 10:34:58.587425 (Thread-4): 10:34:58  Using redshift connection "model.jaffle_shop.dim_customers"
+2022-10-04 10:34:58.587581 (Thread-4): 10:34:58  On model.jaffle_shop.dim_customers: BEGIN
+2022-10-04 10:34:58.587671 (Thread-4): 10:34:58  Opening a new connection, currently in state closed
+2022-10-04 10:34:58.587755 (Thread-4): 10:34:58  Redshift adapter: Connecting to Redshift using 'database' credentials
+2022-10-04 10:35:00.515058 (Thread-465): handling poll request
+2022-10-04 10:35:00.515484 (Thread-465): 10:35:00  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226d954f70>]}
+2022-10-04 10:35:00.516209 (Thread-465): sending response (<Response 8227 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:35:00.722911 (Thread-4): 10:35:00  SQL status: BEGIN in 2.14 seconds
+2022-10-04 10:35:00.723104 (Thread-4): 10:35:00  Using redshift connection "model.jaffle_shop.dim_customers"
+2022-10-04 10:35:00.723209 (Thread-4): 10:35:00  On model.jaffle_shop.dim_customers: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.dim_customers"} */
+
+
+  create  table
+    "dbtworkshop"."public"."dim_customers__dbt_tmp"
+    
+    
+    
+  as (
+    with customers as (
+    select * from "dbtworkshop"."public"."stg_customers"
+),
+orders as (
+    select * from "dbtworkshop"."public"."fct_orders"
+),
+customer_orders as (
+    select
+        customer_id,
+        min(order_date) as first_order_date,
+        max(order_date) as most_recent_order_date,
+        count(order_id) as number_of_orders,
+        sum(amount) as lifetime_value
+    from orders
+    group by 1
+),
+final as (
+    select
+        customers.customer_id,
+        customers.first_name,
+        customers.last_name,
+        customer_orders.first_order_date,
+        customer_orders.most_recent_order_date,
+        coalesce(customer_orders.number_of_orders, 0) as number_of_orders,
+        customer_orders.lifetime_value
+    from customers
+    left join customer_orders using (customer_id)
+)
+select * from final
+  );
+2022-10-04 10:35:01.082312 (Thread-4): 10:35:01  SQL status: SELECT in 0.36 seconds
+2022-10-04 10:35:01.085076 (Thread-4): 10:35:01  Using redshift connection "model.jaffle_shop.dim_customers"
+2022-10-04 10:35:01.085191 (Thread-4): 10:35:01  On model.jaffle_shop.dim_customers: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.dim_customers"} */
+alter table "dbtworkshop"."public"."dim_customers" rename to "dim_customers__dbt_backup"
+2022-10-04 10:35:01.299149 (Thread-4): 10:35:01  SQL status: ALTER TABLE in 0.21 seconds
+2022-10-04 10:35:01.301714 (Thread-4): 10:35:01  Using redshift connection "model.jaffle_shop.dim_customers"
+2022-10-04 10:35:01.301826 (Thread-4): 10:35:01  On model.jaffle_shop.dim_customers: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.dim_customers"} */
+alter table "dbtworkshop"."public"."dim_customers__dbt_tmp" rename to "dim_customers"
+2022-10-04 10:35:01.518659 (Thread-4): 10:35:01  SQL status: ALTER TABLE in 0.22 seconds
+2022-10-04 10:35:01.520663 (Thread-4): 10:35:01  On model.jaffle_shop.dim_customers: COMMIT
+2022-10-04 10:35:01.520780 (Thread-4): 10:35:01  Using redshift connection "model.jaffle_shop.dim_customers"
+2022-10-04 10:35:01.520853 (Thread-4): 10:35:01  On model.jaffle_shop.dim_customers: COMMIT
+2022-10-04 10:35:01.792365 (Thread-4): 10:35:01  SQL status: COMMIT in 0.27 seconds
+2022-10-04 10:35:01.792764 (Thread-4): 10:35:01  Using redshift connection "model.jaffle_shop.dim_customers"
+2022-10-04 10:35:01.792861 (Thread-4): 10:35:01  On model.jaffle_shop.dim_customers: BEGIN
+2022-10-04 10:35:02.037985 (Thread-4): 10:35:02  SQL status: BEGIN in 0.24 seconds
+2022-10-04 10:35:02.040035 (Thread-4): 10:35:02  Using redshift connection "model.jaffle_shop.dim_customers"
+2022-10-04 10:35:02.040195 (Thread-4): 10:35:02  On model.jaffle_shop.dim_customers: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "model.jaffle_shop.dim_customers"} */
+drop table if exists "dbtworkshop"."public"."dim_customers__dbt_backup" cascade
+2022-10-04 10:35:02.265897 (Thread-466): handling poll request
+2022-10-04 10:35:02.266289 (Thread-466): 10:35:02  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f228d3214f0>]}
+2022-10-04 10:35:02.266973 (Thread-466): sending response (<Response 8712 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:35:02.296251 (Thread-4): 10:35:02  SQL status: DROP TABLE in 0.26 seconds
+2022-10-04 10:35:02.297138 (Thread-4): 10:35:02  On model.jaffle_shop.dim_customers: COMMIT
+2022-10-04 10:35:02.297254 (Thread-4): 10:35:02  Using redshift connection "model.jaffle_shop.dim_customers"
+2022-10-04 10:35:02.297328 (Thread-4): 10:35:02  On model.jaffle_shop.dim_customers: COMMIT
+2022-10-04 10:35:02.565255 (Thread-4): 10:35:02  SQL status: COMMIT in 0.27 seconds
+2022-10-04 10:35:02.565451 (Thread-4): 10:35:02  Using redshift connection "model.jaffle_shop.dim_customers"
+2022-10-04 10:35:02.565533 (Thread-4): 10:35:02  On model.jaffle_shop.dim_customers: BEGIN
+2022-10-04 10:35:02.783114 (Thread-4): 10:35:02  SQL status: BEGIN in 0.22 seconds
+2022-10-04 10:35:02.783774 (Thread-4): 10:35:02  finished collecting timing info
+2022-10-04 10:35:02.783939 (Thread-4): 10:35:02  On model.jaffle_shop.dim_customers: ROLLBACK
+2022-10-04 10:35:02.996898 (Thread-4): 10:35:02  On model.jaffle_shop.dim_customers: Close
+2022-10-04 10:35:02.997604 (Thread-4): 10:35:02  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '27c74c51-67f2-472c-b21e-4d5e1bf4da8f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7eff6421f490>]}
+2022-10-04 10:35:02.997997 (Thread-4): 10:35:02  7 of 7 OK created table model public.dim_customers ............................. [SELECT in 4.44s]
+2022-10-04 10:35:02.998231 (Thread-4): 10:35:02  Finished running node model.jaffle_shop.dim_customers
+2022-10-04 10:35:02.999774 (MainThread): 10:35:02  Acquiring new redshift connection "master"
+2022-10-04 10:35:02.999934 (MainThread): 10:35:02  Using redshift connection "master"
+2022-10-04 10:35:03.000012 (MainThread): 10:35:02  On master: BEGIN
+2022-10-04 10:35:03.000125 (MainThread): 10:35:03  Opening a new connection, currently in state closed
+2022-10-04 10:35:03.000208 (MainThread): 10:35:03  Redshift adapter: Connecting to Redshift using 'database' credentials
+2022-10-04 10:35:04.545705 (Thread-467): handling poll request
+2022-10-04 10:35:04.546100 (Thread-467): 10:35:04  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c750b80>]}
+2022-10-04 10:35:04.546771 (Thread-467): sending response (<Response 7015 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:35:05.178162 (MainThread): 10:35:05  SQL status: BEGIN in 2.18 seconds
+2022-10-04 10:35:05.178348 (MainThread): 10:35:05  On master: COMMIT
+2022-10-04 10:35:05.178424 (MainThread): 10:35:05  Using redshift connection "master"
+2022-10-04 10:35:05.178497 (MainThread): 10:35:05  On master: COMMIT
+2022-10-04 10:35:05.391305 (MainThread): 10:35:05  SQL status: COMMIT in 0.21 seconds
+2022-10-04 10:35:05.391501 (MainThread): 10:35:05  On master: Close
+2022-10-04 10:35:05.392162 (MainThread): 10:35:05  
+2022-10-04 10:35:05.392298 (MainThread): 10:35:05  Finished running 4 view models, 3 table models in 0 hours 0 minutes and 32.46 seconds (32.46s).
+2022-10-04 10:35:05.392413 (MainThread): 10:35:05  Connection 'master' was properly closed.
+2022-10-04 10:35:05.392478 (MainThread): 10:35:05  Connection 'model.jaffle_shop.fct_orders' was properly closed.
+2022-10-04 10:35:05.392538 (MainThread): 10:35:05  Connection 'model.jaffle_shop.stg_customers' was properly closed.
+2022-10-04 10:35:05.392595 (MainThread): 10:35:05  Connection 'model.jaffle_shop.my_second_dbt_model' was properly closed.
+2022-10-04 10:35:05.392652 (MainThread): 10:35:05  Connection 'model.jaffle_shop.dim_customers' was properly closed.
+2022-10-04 10:35:05.461250 (MainThread): 10:35:05  
+2022-10-04 10:35:05.461477 (MainThread): 10:35:05  Completed successfully
+2022-10-04 10:35:05.461578 (MainThread): 10:35:05  
+2022-10-04 10:35:05.461662 (MainThread): 10:35:05  Done. PASS=7 WARN=0 ERROR=0 SKIP=0 TOTAL=7
+2022-10-04 10:35:06.356475 (Thread-468): handling poll request
+2022-10-04 10:35:06.356871 (Thread-468): 10:35:06  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c7d89d0>]}
+2022-10-04 10:35:06.358383 (Thread-468): sending response (<Response 29681 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:35:07.420741 (Thread-469): handling status request
+2022-10-04 10:35:07.421139 (Thread-469): 10:35:07  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c7d8880>]}
+2022-10-04 10:35:07.421654 (Thread-469): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:35:07.427473 (Thread-470): handling status request
+2022-10-04 10:35:07.427763 (Thread-470): 10:35:07  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c7d85b0>]}
+2022-10-04 10:35:07.428230 (Thread-470): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
+2022-10-04 10:37:10.019751 (Thread-471): handling status request
+2022-10-04 10:37:10.021302 (Thread-471): 10:37:10  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '9d9fc55a-5076-41cd-a3ef-baf55d05d5a8', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f226c7d8850>]}
+2022-10-04 10:37:10.021777 (Thread-471): sending response (<Response 1272 bytes [200 OK]>) to 10.0.11.107
